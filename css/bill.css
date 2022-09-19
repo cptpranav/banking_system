@@ -1,0 +1,34 @@
+#heading
+	{
+		margin-bottom:5px;
+		border-bottom:1px solid #ADADAD;
+	}
+#wel
+	{
+		font-size:18px;
+	}
+#bill_form
+	{
+		float:left;
+		width:100%;
+		border:1px solid black;
+	}
+#btn
+	{
+		border-collapse:collapse;
+		border:2px solid #b339a5;
+	}
+#btn th
+	{
+		background-color:#b339a5;
+		color:WHITE;
+		font-size:20px;
+	}
+select
+	{
+		width:100%;
+	}
+#label
+	{
+		background-color:#b339a5;
+	}
